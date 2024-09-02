@@ -33,9 +33,3 @@ After extensive experimentation with different hyperparameter combinations, the 
 ## Conclusion
 
 This project showcases the capability of classic neural network architectures like LeNet-5, combined with modern hyperparameter optimization techniques, to deliver outstanding results in fundamental computer vision tasks. The success of this approach in digit classification tasks paves the way for further exploration into more complex image recognition challenges.
-
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
